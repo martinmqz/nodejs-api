@@ -40,3 +40,6 @@ fetch('/api/items/1', {
 ### Dependencies:
 * Express - Node server
 * Cors - To avoid CORS-related issues locally
+
+![image](https://martinstack.dev/pixel?r=nodejs-api)
+
