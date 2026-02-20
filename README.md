@@ -41,5 +41,5 @@ fetch('/api/items/1', {
 * Express - Node server
 * Cors - To avoid CORS-related issues locally
 
-![image](https://martinstack.dev/pixel?r=nodejs-api)
+![image](https://api.webect.com/px?r=nodejs-api)
 
